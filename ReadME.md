@@ -281,13 +281,13 @@ Absolutely! Here’s a list of common React interview questions framed for an in
 
 
 
-Reacts Virtual DOM and its role
-React hooks
-How hooks enhance functionality
-Importance of state mechanism in React
-React Context API
-React Router
-Security in react APP
+### Reacts Virtual DOM and its role
+### React hooks
+### How hooks enhance functionality
+### Importance of state mechanism in React
+### React Context API
+### React Router
+### Security in react APP
 
    const UserContext = createContext();
 
