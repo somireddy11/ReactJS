@@ -545,3 +545,25 @@ These questions and examples cover core React concepts and demonstrate how to ex
 
    export const UserProvider = ({ children }) => {
        const [user, setUser] = useState(null
+
+
+### Biodata for Marriage  
+
+| **Details**            | **Information**                               |
+|-------------------------|-----------------------------------------------|
+| **Name**               | Somi Reddy Mamidi                            |
+| **Date of Birth**      | 5th December 1994                            |
+| **Age**                | 30 years                                     |
+| **Educational Qualification** | Master’s Degree from Columbus State University, Georgia, USA |
+| **Professional Details** | 4.5 years of experience as a Java Developer <br> Currently working at Société Générale <br> Annual Package: 15 LPA |
+| **Father's Name**      | Madhu Sudhan Reddy (Farmer)                  |
+| **Mother's Name**      | Madhavi (Homemaker)                          |
+| **Siblings**           | Two Sisters: <br> - Jyothi Reddy (Pediodontist) <br> - Rekha Reddy (M.Tech, resides in Dubai) |  
+
+
+
+
+
+
+
+       
