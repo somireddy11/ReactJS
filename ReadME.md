@@ -546,8 +546,7 @@ These questions and examples cover core React concepts and demonstrate how to ex
    export const UserProvider = ({ children }) => {
        const [user, setUser] = useState(null
 
-
-### Biodata for Marriage  
+  
 
 ![image](https://github.com/user-attachments/assets/54e96ac9-3021-4251-abfd-a1173e1458fe)
 
