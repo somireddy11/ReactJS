@@ -551,6 +551,9 @@ These questions and examples cover core React concepts and demonstrate how to ex
 
 ![image](https://github.com/user-attachments/assets/54e96ac9-3021-4251-abfd-a1173e1458fe)
 
+![image](https://github.com/user-attachments/assets/37b9bff8-da93-4104-9b9b-a72b4c5ad85c)
+
+
 
 
 
